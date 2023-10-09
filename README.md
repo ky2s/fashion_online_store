@@ -1,2 +1,7 @@
 # fashion_online_store
-Ecommerce yang dibangun untuk menjual produk-produk Fashion 
+Projek e-commerce Toko Online yang menjual produk-produk Fashion sebuah Brand Roep*store
+Tech:
+- Opencart
+- PHP (MVCL)
+- Mysql
+- Javascript(Jquery)
