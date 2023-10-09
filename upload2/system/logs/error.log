@@ -1,0 +1,210 @@
+2015-04-22 2:07:31 - PHP Notice:  Undefined index: city_id in /home/html/ocGositus/catalog/model/shipping/jneoke.php on line 21
+2015-04-22 2:07:31 - PHP Notice:  Undefined index: city_id in /home/html/ocGositus/catalog/model/shipping/jnereg.php on line 21
+2015-04-22 2:07:31 - PHP Notice:  Undefined index: city_id in /home/html/ocGositus/catalog/model/shipping/jneyes.php on line 21
+2015-05-06 13:41:02 - PHP Notice:  Error: Table 'oc_ocGositus.newsletter' doesn't exist<br />Error No: 1146<br />SELECT newsletter_email FROM newsletter WHERE newsletter_email = 'triadiar2608@gmail.com' in /home/html/ocGositus/system/library/db/mysqli.php on line 40
+2015-05-06 13:41:02 - PHP Notice:  Trying to get property of non-object in /home/html/ocGositus/catalog/controller/common/footer.php on line 121
+2015-05-06 13:41:03 - PHP Notice:  Undefined variable: url in /home/html/ocGositus/catalog/controller/common/footer.php on line 248
+2015-05-06 13:41:03 - PHP Notice:  Undefined variable: store_url in /home/html/ocGositus/catalog/view/theme/default/template/mail/newsletter.tpl on line 34
+2015-05-07 15:24:30 - PHP Notice:  Error: Table 'oc_ocGositus.newsletter' doesn't exist<br />Error No: 1146<br />SELECT newsletter_email FROM newsletter WHERE newsletter_email = 'denny@gositus.com' in /home/html/ocGositus/system/library/db/mysqli.php on line 40
+2015-05-07 15:24:30 - PHP Notice:  Trying to get property of non-object in /home/html/ocGositus/catalog/model/account/customer.php on line 43
+2015-05-07 15:24:30 - PHP Notice:  Undefined variable: url in /home/html/ocGositus/catalog/model/account/customer.php on line 180
+2015-05-07 15:24:30 - PHP Notice:  Undefined variable: store_url in /home/html/ocGositus/catalog/view/theme/default/template/mail/register.tpl on line 34
+2015-05-15 15:22:43 - PHP Notice:  Error: Table 'oc_ocGositus.newsletter' doesn't exist<br />Error No: 1146<br />SELECT newsletter_email FROM newsletter WHERE newsletter_email = 'notifier.gotoko@gmail.com' in /home/html/ocGositus/system/library/db/mysqli.php on line 40
+2015-05-15 15:22:43 - PHP Notice:  Trying to get property of non-object in /home/html/ocGositus/catalog/controller/common/footer.php on line 121
+2015-05-15 15:22:43 - PHP Notice:  Undefined variable: url in /home/html/ocGositus/catalog/controller/common/footer.php on line 248
+2015-05-15 15:22:43 - PHP Notice:  Undefined variable: store_url in /home/html/ocGositus/catalog/view/theme/default/template/mail/newsletter.tpl on line 34
+2015-05-19 10:04:18 - PHP Notice:  Undefined variable: search in /home/html/ocGositus/admin/view/template/module/multiimageuploader.tpl on line 7
+2015-05-19 10:04:18 - PHP Notice:  Undefined variable: button_search in /home/html/ocGositus/admin/view/template/module/multiimageuploader.tpl on line 7
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:29:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:02 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:13 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Notice:  Undefined variable: extention_filter in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 10:30:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/html/ocGositus/admin/view/template/extension/module.tpl on line 44
+2015-05-19 17:44:37 - PHP Notice:  Undefined index: product_description in /home/html/ocGositus/system/modification/admin/controller/catalog/product.php on line 32
+2015-05-19 17:44:37 - PHP Warning:  Invalid argument supplied for foreach() in /home/html/ocGositus/system/modification/admin/controller/catalog/product.php on line 32
+2015-05-26 21:26:34 - PHP Notice:  Undefined index: product_description in /home/html/ocGositus/system/modification/admin/controller/catalog/product.php on line 32
+2015-05-26 21:26:34 - PHP Warning:  Invalid argument supplied for foreach() in /home/html/ocGositus/system/modification/admin/controller/catalog/product.php on line 32
+2015-05-27 1:25:05 - PHP Notice:  Undefined index: product_description in /home/html/ocGositus/system/modification/admin/controller/catalog/product.php on line 32
+2015-05-27 1:25:05 - PHP Warning:  Invalid argument supplied for foreach() in /home/html/ocGositus/system/modification/admin/controller/catalog/product.php on line 32
+2015-06-12 20:32:44 - PHP Notice:  Undefined index: product_description in /home/html/ocGositus/system/modification/admin/controller/catalog/product.php on line 32
+2015-06-12 20:32:44 - PHP Warning:  Invalid argument supplied for foreach() in /home/html/ocGositus/system/modification/admin/controller/catalog/product.php on line 32
+2015-06-24 20:42:41 - PHP Notice:  unserialize(): Error at offset 0 of 1 bytes in /home/html/ocGositus/system/library/cart.php on line 23

@@ -1,0 +1,119 @@
+---------- Date: 2015-10-17 02:05:44 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+MOD DETAILS:
+   modFile   : /home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml
+   id        : Multi Vendor Drop Shipper 2.0.1.1 - Coded by waabay.com
+   version   : 1.0
+   vqmver    : 2.5.1
+   author    : waabay
+VQModObject::parseMods - Could not resolve path for [admin/language/english/common/profile.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/english/checkout.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:05:44 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager/getList&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+MOD DETAILS:
+   modFile   : /home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml
+   id        : Multi Vendor Drop Shipper 2.0.1.1 - Coded by waabay.com
+   version   : 1.0
+   vqmver    : 2.5.1
+   author    : waabay
+VQModObject::parseMods - Could not resolve path for [admin/language/english/common/profile.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/english/checkout.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:06:19 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=sale/customer&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+MOD DETAILS:
+   modFile   : /home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml
+   id        : Multi Vendor Drop Shipper 2.0.1.1 - Coded by waabay.com
+   version   : 1.0
+   vqmver    : 2.5.1
+   author    : waabay
+VQModObject::parseMods - Could not resolve path for [admin/language/english/common/profile.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/english/checkout.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:06:24 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+MOD DETAILS:
+   modFile   : /home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml
+   id        : Multi Vendor Drop Shipper 2.0.1.1 - Coded by waabay.com
+   version   : 1.0
+   vqmver    : 2.5.1
+   author    : waabay
+VQModObject::parseMods - Could not resolve path for [admin/language/english/common/profile.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/english/checkout.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:06:25 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager/getList&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/vqmod_opencart.xml"
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml"
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:06:29 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/product/add&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/vqmod_opencart.xml"
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml"
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:06:43 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/product/add&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+MOD DETAILS:
+   modFile   : /home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml
+   id        : Multi Vendor Drop Shipper 2.0.1.1 - Coded by waabay.com
+   version   : 1.0
+   vqmver    : 2.5.1
+   author    : waabay
+VQModObject::parseMods - Could not resolve path for [admin/language/english/common/profile.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/english/checkout.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:06:43 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/vqmod_opencart.xml"
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml"
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:06:43 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager/getList&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/vqmod_opencart.xml"
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml"
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:07:44 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/vqmod_opencart.xml"
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml"
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:07:44 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager/getList&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/vqmod_opencart.xml"
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml"
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-17 02:09:08 ~ IP : 192.168.1.86 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager&token=0c225c8a9c4a55dfed79c0fe76cb5fa5
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/vqmod_opencart.xml"
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity "/home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml"
+----------------------------------------------------------------------
+
+

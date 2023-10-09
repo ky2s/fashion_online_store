@@ -1,0 +1,66 @@
+#livesearch_search_results {		
+	position:absolute;
+	top:38px;
+	left:0;
+	background-color: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.15);
+	border-radius:0px 0px 4px 4px;
+	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.176);
+	list-style-type:none;
+	z-index:12;
+	width:100%;
+	background-clip: padding-box;           
+	float: left;  	
+	margin: 2px 0 0;    
+	padding: 5px 0;
+	border-top:none;
+}
+
+#livesearch_search_results li {
+padding:0px;
+overflow:hidden;
+}
+
+#livesearch_search_results a,#livesearch_search_results a:visited,#livesearch_search_results a:hover {
+color:#333333 ;
+text-decoration:none;
+}
+
+#livesearch_search_results a {
+display:block;
+padding:5px;
+float:left;
+color:#333333;
+width: 100%;
+font-size: 16px;  
+}
+
+#livesearch_search_results a:hover {
+color:#1e1d19;
+}
+
+#livesearch_search_results li:hover {
+background-color:#2199C7;
+}
+
+#livesearch_search_results li:hover a{
+color:#fff;
+}
+
+#livesearch_search_results .highlighted a {
+color:#1e1d19
+}
+
+#livesearch_search_results .highlighted {
+background-color:#e1cc23;
+}
+
+#livesearch_search_results li img {
+overflow:hidden;
+float:left;
+margin-right:10px;
+}
+
+#livesearch_search_results li img.loading {
+background:#fff;
+}

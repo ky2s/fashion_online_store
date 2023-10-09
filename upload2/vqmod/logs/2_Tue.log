@@ -1,0 +1,51 @@
+---------- Date: 2015-04-14 10:37:38 ~ IP : 192.168.1.123 ----------
+REQUEST URI : /ocGositus/admin/
+MOD DETAILS:
+   modFile   : /home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml
+   id        : Multi Vendor Drop Shipper 2.0.1.1 - Coded by waabay.com
+   version   : 1.0
+   vqmver    : 2.5.1
+   author    : waabay
+VQModObject::parseMods - Could not resolve path for [admin/language/english/common/profile.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/english/checkout.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-04-14 11:41:21 ~ IP : 192.168.1.123 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/productmanager&token=e462e9c0360d86022c88c1bcd9700c20
+MOD DETAILS:
+   modFile   : /home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml
+   id        : Multi Vendor Drop Shipper 2.0.1.1 - Coded by waabay.com
+   version   : 1.0
+   vqmver    : 2.5.1
+   author    : waabay
+VQModObject::parseMods - Could not resolve path for [admin/language/english/common/profile.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/english/checkout.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : /home/html/ocGositus/vqmod/xml/install.xml
+   id        : 
+   version   : 4.00
+   vqmver    : 1.0.8
+   author    : Sharley's Web Development
+
+File Name    : admin/model/catalog/product.php(1)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): foreach ($data['product_description'] as $language_id => $value) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-04-14 11:53:00 ~ IP : 192.168.1.123 ----------
+REQUEST URI : /ocGositus/admin/index.php?route=catalog/product&token=e462e9c0360d86022c88c1bcd9700c20
+MOD DETAILS:
+   modFile   : /home/html/ocGositus/vqmod/xml/waabay_mvd_core_20141225_.xml
+   id        : Multi Vendor Drop Shipper 2.0.1.1 - Coded by waabay.com
+   version   : 1.0
+   vqmver    : 2.5.1
+   author    : waabay
+VQModObject::parseMods - Could not resolve path for [admin/language/english/common/profile.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/english/checkout.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+

@@ -1,0 +1,10 @@
+<?php
+// Text
+$_['text_title']    = 'Transfer via Bank Danamon';
+$_['text_logo']      = '<img src="image/bank/danamon.png" alt="Bank Danamon" title="Bank Danamon" width="200"/>';
+$_['text_instruction'] = 'Transfer via Bank Danamon';
+$_['text_accountno']   = 'Account Number: ';
+$_['text_accountname']   = 'Account Name: ';
+$_['text_detail1']   = 'Please transfer this amount to the account below:';
+$_['text_detail2']   = 'Your order will be shipped after we receive your payment.';
+?>
